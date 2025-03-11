@@ -18,6 +18,7 @@ Collection of my leetcode solves and practice
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
