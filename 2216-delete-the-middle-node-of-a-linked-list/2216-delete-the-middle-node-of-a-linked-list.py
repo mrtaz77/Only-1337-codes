@@ -9,19 +9,17 @@ class Solution:
             return None
         slow = head
         fast = head
-        move_slow = False
-        while fast.next is not None:
-            fast = fast.next
-            if fast.next is not None:
-                if move_slow:
-                    slow = slow.next
-                move_slow = ~move_slow
-            else:
-                temp = slow.next
-                slow.next = slow.next.next
-                temp.next = None
-        return head
+        prev = None
+        while fast and fast.next is not None:
+            prev = slow
+            slow = slow.next
+            fast = fast.next.next
 
+        if prev:
+            temp = prev.next
+            prev.next = prev.next.next
+            temp.next = None
+        return head
             
             
         
