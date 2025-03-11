@@ -23,4 +23,12 @@ Collection of my leetcode solves and practice
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mrtaz77/Only-1337-codes/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mrtaz77/Only-1337-codes/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
