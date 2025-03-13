@@ -31,6 +31,7 @@ Collection of my leetcode solves and practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mrtaz77/Only-1337-codes/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/mrtaz77/Only-1337-codes/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mrtaz77/Only-1337-codes/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Design
@@ -45,4 +46,8 @@ Collection of my leetcode solves and practice
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/mrtaz77/Only-1337-codes/tree/master/0969-number-of-recent-calls) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mrtaz77/Only-1337-codes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
