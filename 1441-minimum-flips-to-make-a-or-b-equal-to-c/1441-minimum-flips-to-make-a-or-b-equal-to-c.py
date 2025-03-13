@@ -1,24 +1,18 @@
 class Solution:
     def minFlips(self, a: int, b: int, c: int) -> int:
-        mask = 1
-        _a , _b, _c = a, b, c
         flips = 0
-        while _c > 0:
-            flips += (((_a & mask) ^ 1) & ((_b & mask) ^ 1) & (_c & mask))
-            flips += (((_c & mask) ^ 1) & (_a & mask))
-            flips += (((_c & mask) ^ 1) & (_b & mask))
-            _c = _c >> 1
-            _a = _a >> 1
-            _b = _b >> 1
-        while _a > 0:
-            flips += (_a & mask)
-            flips += (_b & mask)
-            _a = _a >> 1
-            _b = _b >> 1
-        while _b > 0:
-            flips += (_b & mask)
-            _b = _b >> 1
+        while a > 0 or b > 0 or c > 0:
+            lsb_a = a & 1
+            lsb_b = b & 1
+            lsb_c = c & 1
+            flips += (((lsb_a | lsb_b) ^ 1) & lsb_c)
+            flips += ((lsb_c ^ 1) & lsb_a)
+            flips += ((lsb_c ^ 1) & lsb_b)
+            a >>= 1
+            b >>= 1
+            c >>= 1
         return flips
+            
         
 
         
