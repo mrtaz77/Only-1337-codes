@@ -32,4 +32,16 @@ Collection of my leetcode solves and practice
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/mrtaz77/Only-1337-codes/tree/master/0338-counting-bits) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mrtaz77/Only-1337-codes/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mrtaz77/Only-1337-codes/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mrtaz77/Only-1337-codes/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
