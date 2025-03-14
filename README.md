@@ -10,10 +10,12 @@ Collection of my leetcode solves and practice
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mrtaz77/Only-1337-codes/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/mrtaz77/Only-1337-codes/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mrtaz77/Only-1337-codes/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/mrtaz77/Only-1337-codes/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -50,4 +52,5 @@ Collection of my leetcode solves and practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mrtaz77/Only-1337-codes/tree/master/0136-single-number) |
+| [0735-asteroid-collision](https://github.com/mrtaz77/Only-1337-codes/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
