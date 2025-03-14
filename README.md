@@ -20,6 +20,7 @@ Collection of my leetcode solves and practice
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -53,4 +54,8 @@ Collection of my leetcode solves and practice
 | ------- |
 | [0136-single-number](https://github.com/mrtaz77/Only-1337-codes/tree/master/0136-single-number) |
 | [0735-asteroid-collision](https://github.com/mrtaz77/Only-1337-codes/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mrtaz77/Only-1337-codes/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
